@@ -31,7 +31,7 @@
     "lint:prettier": "prettier -c . --cache --ignore-path=../../.prettierignore"
   },
   "dependencies": {
-    "dotenv": "16.3.1"
+    "dotenv": "16.5.0"
   },
   "devDependencies": {
     "@types/eslint": "^8.4.5",
